@@ -1,7 +1,7 @@
 # Virtual_website
 
 
-Steps for django project on heroku:
+Steps for deploy django project on heroku:
 
 
 
