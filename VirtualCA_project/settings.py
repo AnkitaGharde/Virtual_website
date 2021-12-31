@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure--xc76_#ej!md=0$7281jdx9p1*k2@mdn(h1h7ezm4ej9bgusys
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1','virtualcaoffice.herokuapp.com']
+ALLOWED_HOSTS = ['virtualcaoffice.herokuapp.com','www.virtualcaoffice.herokuapp.com']
 
 
 # Application definition
