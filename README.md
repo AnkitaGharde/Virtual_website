@@ -5,7 +5,7 @@ Steps for deploy django project on heroku:
 
 
 
- Create Procfile 
+1. Create Procfile 
 
 2. Add the below line
     web: python manage.py collectstatic --no-input; gunicorn codingmaster.wsgi --log-file - --log-level debug
