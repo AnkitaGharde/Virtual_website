@@ -64,7 +64,7 @@ ul.dt-sc-social-icons li a {
     padding: 0px 10px;
     margin: 0px;
     display: inline-block;
-    color: #2015c9;
+    color: #1215eb;
 }
 
 ul.dt-sc-social-icons li a span {
@@ -122,7 +122,7 @@ header .dt-sc-bordered-button {
 }
 
 .top-bar .container-inner {
-    background: #81b84c;
+    background: gray;
     position: relative;
 }
 
@@ -132,7 +132,7 @@ header .dt-sc-bordered-button {
     right: -15px;
     height: 100%;
     width: 35px;
-    background: #81b84c;
+    background: gray;
     top: 0;
     transform: skew(-34deg);
     z-index: 1;
@@ -144,7 +144,7 @@ header .dt-sc-bordered-button {
     left: -15px;
     height: 100%;
     width: 35px;
-    background: #81b84c;
+    background:gray;
     top: 0;
     transform: skew(34deg);
     z-index: 1;
@@ -251,7 +251,7 @@ header .info ul li p span.heading {
     width: 50px;
     height: 50px;
     top: 50%;
-    background: #47bcdf !important;
+    background:  #002b73 !important;
     color: #fff;
     border-radius: 50px;
     -webkit-border-radius: 50px;
@@ -946,7 +946,7 @@ footer {
     padding-top: 25px;
     padding-bottom: 20px;
     margin-top: 30px;
-    background: #81b84c;
+    background: gray;
     border-top: 1px solid #394654;
     display: block;
     clear: both;
@@ -1085,6 +1085,7 @@ footer {
     }
     .top-bar {
         background: #060a89;
+
     }
     .navbar-inverse .navbar-toggle .icon-bar {
         background-color: #999;
